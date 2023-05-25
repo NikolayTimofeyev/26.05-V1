@@ -4,8 +4,8 @@ public class Tank {
     static int ntanks;
 
     private int x, y;
-    private int dir; hhjkgit
-    private int fuel;git
+    private int dir;
+    private int fuel;
     private int n;
 
     public Tank(int x, int y, int fuel) {
