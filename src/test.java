@@ -1,6 +1,6 @@
-/* public class test {
+public class test {
     public static void main(String[] args) {
-        int x = 3;
+   /*     int x = 3;
         while (x > 0) {
             if (x > 2) System.out.print("a");
             x = x - 1; System.out.println("-");
@@ -13,3 +13,7 @@
 
 
  */
+
+        System.out.println("Trololo2");
+    }
+}
