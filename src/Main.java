@@ -17,8 +17,6 @@ Make numbers and common name to tanks
         customTank2.goForward(201);
         customTank2.printPosition();
 
-        Trololo
-       
 /* 
 This fragment of code has to output 
 
