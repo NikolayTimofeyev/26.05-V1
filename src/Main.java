@@ -11,7 +11,7 @@ Make numbers and common name to tanks
         Tank customTank1 = new Tank(20, 30, 200);
         Tank customTank2 = new Tank(60, 10, 4);
 
-        customTank1.goForward(201);
+        customTank1.goForward(201); ор
         customTank1.printPosition();
 
         customTank2.goForward(201);

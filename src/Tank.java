@@ -6,7 +6,7 @@ public class Tank {
     private int x, y;
     private int dir;
     private int fuel;
-    private int n;
+    private int n;7678
 
     public Tank(int x, int y, int fuel) {
         this.x = x;
